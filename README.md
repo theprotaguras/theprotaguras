@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theprotaguras
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Python
